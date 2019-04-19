@@ -1,0 +1,16 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{Alpher03}
+A.~Alpher and J.~P.~N. Fotheringham-Smythe.
+\newblock Frobnication revisited.
+\newblock {\em Journal of Foo}, 13(1):234--778, 2003.
+
+\bibitem{Alpher02}
+M.~Bojarski, D.~D. Testa, D.~Dworakowski, B.~Firner, B.~Flepp, P.~Goyal, L.~D.
+  Jackel, M.~Monfort, U.~Muller, J.~Zhang, X.~Zhang, J.~Zhao, and K.~Zieba.
+\newblock End to end learning for self-driving cars.
+\newblock {\em CoRR}, 2016.
+\newblock URL:
+  http://dblp.uni-trier.de/db/journals/corr/corr1604.html#BojarskiTDFFGJM16.
+
+\end{thebibliography}
